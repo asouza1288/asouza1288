@@ -1,96 +1,101 @@
-<div align="center">
+<h1 align="center">👩‍💻 Ana Souza</h1>
 
-  <h1>👩‍💻 Backend Developer</h1>
+<h3 align="center">
+Backend Developer | C# | .NET
+</h3>
 
-  <h3>C# | .NET | ASP.NET Core | SQL Server</h3>
-
-  <p>
-    Construo APIs escaláveis, organizadas e com foco em boas práticas de mercado.
-  </p>
-
-  <p>
-    <a href="https://github.com/seuusuario">GitHub</a> • 
-    <a href="https://www.linkedin.com/in/seuperfil">LinkedIn</a>
-  </p>
-
-</div>
-
-<hr>
-
-<h2>🧭 Sobre mim</h2>
-
-<p>
-Sou desenvolvedora backend em formação, com foco em <b>APIs REST com C# e .NET</b>.
-Busco evoluir em arquitetura de software, padrões de projeto e construção de sistemas escaláveis.
+<p align="center">
+Desenvolvedora backend focada em construção de APIs escaláveis, arquitetura limpa e boas práticas de desenvolvimento.
 </p>
 
-<hr>
+---
 
-<h2>⚙️ Stack principal</h2>
+## 🧠 Sobre mim
 
-<div>
+- 💻 Foco em desenvolvimento backend com C# e .NET  
+- 🏗 Criação de APIs REST robustas e escaláveis  
+- 📚 Estudando Arquitetura de Software, Clean Architecture e DDD  
+- 🧼 Aplicação de Clean Code e princípios SOLID no dia a dia  
+- 🚀 Construindo portfólio com projetos reais de backend  
+- 🎯 Objetivo: atuar como Backend Developer Jr em ambiente corporativo  
 
-<p>💻 C#</p>
-<p>⚙️ .NET / ASP.NET Core Web API</p>
-<p>🗄️ SQL Server</p>
-<p>🧩 Entity Framework Core</p>
-<p>🌐 APIs REST</p>
-<p>🏗️ Arquitetura de Software</p>
-<p>📐 Clean Code & SOLID</p>
-<p>🔧 Git & GitHub</p>
+---
 
-</div>
+## 🚀 Stack Tecnológica
 
-<hr>
+<p align="center">
 
-<h2>📂 Projetos em destaque</h2>
+<img src="https://img.shields.io/badge/C%23-.NET-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ASP.NET-Core-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API-REST-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Entity%20Framework-ORM-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL%20Server-Database-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-GitHub-darkgreen?style=for-the-badge" />
 
-<h3>🔹 API de Usuários</h3>
-<p>Sistema completo de CRUD com boas práticas e estrutura em camadas.</p>
-<p><a href="https://github.com/seuusuario/api-usuarios">Ver repositório →</a></p>
-
-<br>
-
-<h3>🔹 API com Autenticação JWT</h3>
-<p>Autenticação e autorização com token JWT em ASP.NET Core.</p>
-<p><a href="https://github.com/seuusuario/auth-api">Ver repositório →</a></p>
-
-<br>
-
-<h3>🔹 API de Produtos</h3>
-<p>API com relacionamento entre entidades usando Entity Framework Core.</p>
-<p><a href="https://github.com/seuusuario/api-produtos">Ver repositório →</a></p>
-
-<br>
-
-<h3>🔹 Clean Architecture Project</h3>
-<p>Projeto estruturado com separação de camadas e boas práticas corporativas.</p>
-<p><a href="https://github.com/seuusuario/clean-architecture-api">Ver repositório →</a></p>
-
-<hr>
-
-<h2>🧠 Foco atual</h2>
-
-<ul>
-  <li>Desenvolvimento de APIs REST com ASP.NET Core</li>
-  <li>Arquitetura limpa e escalável</li>
-  <li>Integração com banco de dados SQL Server</li>
-  <li>Boas práticas de código (SOLID e Clean Code)</li>
-  <li>Preparação para vagas júnior backend</li>
-</ul>
-
-<hr>
-
-<h2>🎯 Objetivo profissional</h2>
-
-<p>
-Construir sistemas backend sólidos e conquistar minha primeira oportunidade como desenvolvedora C#/.NET em ambiente corporativo.
 </p>
 
-<hr>
+---
 
-<div align="center">
+## 📌 Projetos em destaque
 
-  <p>🚀 Em constante evolução como desenvolvedora backend</p>
+### 🛒 Order Management API
 
-</div>
+Sistema completo de gestão de pedidos com regras de negócio reais.
+
+**Features:**
+- Autenticação JWT  
+- Controle de estoque  
+- Criação e cancelamento de pedidos  
+- Arquitetura em camadas  
+- Validações e tratamento de erros  
+
+**Stack:**
+C# | .NET | SQL Server | Entity Framework | REST API
+
+---
+
+### 👤 User Management API
+
+API de gerenciamento de usuários com CRUD completo e boas práticas.
+
+**Features:**
+- CRUD de usuários  
+- Validação de dados  
+- Estrutura em camadas  
+- Repository + Service Pattern  
+
+**Stack:**
+C# | .NET | SQL Server | Entity Framework
+
+---
+
+## 🧱 Princípios aplicados
+
+- Clean Code  
+- SOLID  
+- DRY (Don't Repeat Yourself)  
+- Separation of Concerns  
+- Dependency Injection  
+- RESTful API Design  
+
+---
+
+## 📬 Contato
+
+<p align="center">
+
+<a href="https://github.com/asouza1288">
+<img src="https://img.shields.io/badge/GitHub-asouza1288-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/asouza1288">
+<img src="https://img.shields.io/badge/LinkedIn-Ana%20Souza-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Sempre evoluindo em backend, arquitetura e boas práticas de desenvolvimento.
+</p>
