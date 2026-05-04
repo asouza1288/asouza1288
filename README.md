@@ -10,15 +10,19 @@ Desenvolvedora backend focada em construção de APIs escaláveis, arquitetura l
 
 ---
 
-## 🧠 Sobre mim
+Atualmente estou aprofundando meus estudos em:
 
-- 💻 Foco em desenvolvimento backend com C# e .NET  
-- 🏗 Criação de APIs REST robustas e escaláveis  
-- 📚 Estudando Arquitetura de Software, Clean Architecture e DDD  
-- 🧼 Aplicação de Clean Code e princípios SOLID no dia a dia  
-- 🚀 Construindo portfólio com projetos reais de backend  
-- 🎯 Objetivo: atuar como Backend Developer Jr em ambiente corporativo  
-
+* C#
+* .NET
+* ASP.NET Core
+* APIs REST
+* SQL Server
+* Entity Framework
+* Git & GitHub
+* Docker
+* Clean Architecture
+* Segurança de APIs
+* JWT Authentication
 ---
 
 ## 🚀 Stack Tecnológica
