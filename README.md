@@ -1,105 +1,79 @@
-<h1 align="center">👩‍💻 Ana Souza</h1>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:20c997&height=180&section=header&text=Olá,%20eu%20sou%20a%20Ana%20Souza!&fontSize=35&fontColor=ffffff" />
+</p>
 
-<h3 align="center">
-Backend Developer | C# | .NET
-</h3>
+<h3 align="center">💻 Developer Full Stack </h3>
 
 <p align="center">
-Desenvolvedora backend focada em construção de APIs escaláveis, arquitetura limpa e boas práticas de desenvolvimento.
+  ☕ Java • 🌱 Spring Boot • ⚡ Angular • 🚀 
 </p>
 
 ---
 
-Atualmente estou aprofundando meus estudos em:
+## 👨‍💻 Sobre mim
 
-* C#
-* .NET
-* ASP.NET Core
-* APIs REST
-* SQL Server
-* Entity Framework
-* Git & GitHub
-* Docker
-* Clean Architecture
-* Segurança de APIs
-* JWT Authentication
+- 📚 Estudando desenvolvimento Full Stack
+- 🔧 Foco em backend com Java e Spring Boot
+- 🎨 Aprendendo frontend com Angular
+- 🌱 Evoluindo todos os dias na área de tecnologia
+
 ---
 
-## 🚀 Stack Tecnológica
+## 🚀 Tecnologias que estou estudando
 
-<p align="center">
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/C%23-.NET-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ASP.NET-Core-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/API-REST-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Entity%20Framework-ORM-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQL%20Server-Database-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-GitHub-darkgreen?style=for-the-badge" />
+---
 
-</p>
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### Banco de dados
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### Ferramentas
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
 ## 📌 Projetos em destaque
 
-### 🛒 Order Management API
-
-Sistema completo de gestão de pedidos com regras de negócio reais.
-
-**Features:**
-- Autenticação JWT  
-- Controle de estoque  
-- Criação e cancelamento de pedidos  
-- Arquitetura em camadas  
-- Validações e tratamento de erros  
-
-**Stack:**
-C# | .NET | SQL Server | Entity Framework | REST API
+🔹 Sistema de login (Spring Boot + Angular)  
+🔹 API REST de cadastro de usuários  
+🔹 Sistema de tarefas (To-Do List Full Stack)  
+🔹 Dashboard administrativo  
 
 ---
 
-### 👤 User Management API
+## 📊 Objetivo
 
-API de gerenciamento de usuários com CRUD completo e boas práticas.
-
-**Features:**
-- CRUD de usuários  
-- Validação de dados  
-- Estrutura em camadas  
-- Repository + Service Pattern  
-
-**Stack:**
-C# | .NET | SQL Server | Entity Framework
+Conquistar minha primeira vaga como desenvolvedor Full Stack e evoluir na área de tecnologia, atuando com sistemas reais em produção.
 
 ---
 
-## 🧱 Princípios aplicados
+## 📫 Contato
 
-- Clean Code  
-- SOLID  
-- DRY (Don't Repeat Yourself)  
-- Separation of Concerns  
-- Dependency Injection  
-- RESTful API Design  
-
----
-
-## 📬 Contato
-
-<p align="center">
-
-<a href="https://github.com/asouza1288">
-<img src="https://img.shields.io/badge/GitHub-asouza1288-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/asouza1288">
-<img src="https://img.shields.io/badge/LinkedIn-Ana%20Souza-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-</p>
+- LinkedIn: [(https://www.linkedin.com/in/asouza1288/)]  
+- Email: [asouza1288@gmail.com]  
 
 ---
 
 <p align="center">
-⭐ Sempre evoluindo em backend, arquitetura e boas práticas de desenvolvimento.
+  ⭐ Sempre aprendendo, evoluindo e construindo projetos reais!
 </p>
