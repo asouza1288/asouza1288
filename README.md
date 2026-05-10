@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 📚 Estudando desenvolvimento Full Stack
+- 📚 Estudante de ADS na Unisanta, foco em Full Stack
 - 🔧 Foco em backend com Java e Spring Boot
 - 🎨 Aprendendo frontend com Angular
 - 🌱 Evoluindo todos os dias na área de tecnologia
