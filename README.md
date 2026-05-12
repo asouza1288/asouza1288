@@ -63,7 +63,7 @@
 
 ## 📊 Objetivo
 
-Conquistar minha primeira vaga como desenvolvedor Full Stack e evoluir na área de tecnologia, atuando com sistemas reais em produção.
+Conquistar minha primeira vaga como desenvolvedora Full Stack e evoluir na área de tecnologia, atuando com sistemas reais em produção.
 
 ---
 
